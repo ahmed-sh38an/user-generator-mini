@@ -1,1 +1,1 @@
-a mini user generator app
+a mini user generator app using Vue JS
